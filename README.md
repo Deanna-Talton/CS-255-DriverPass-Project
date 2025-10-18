@@ -1,5 +1,13 @@
 # CS-255-DriverPass-Project
-Contains Business Requirements and System Design Documents for the DriverPass system created in SNHU CS 255.
+This repository contains the business requirements and system design documentation for DriverPass, developed for a client named Liam in SNHU’s CS-255: Systems Analysis and Design course. The project focuses on creating a web-based system to help students prepare for DMV driving exams through online practice tests, in-person lesson scheduling, and instructor progress tracking.
+
+The design also includes administrative tools for managing lesson packages, handling secure payments, and assigning user access levels. This project highlights my ability to translate client needs into clear, organized UML diagrams and structured requirements that support both technical implementation and client understanding.
+
+**Skills Demonstrated:** Systems Analysis • UML Modeling • Requirements Gathering • Process and Object Modeling • Client-Focused Design
+
+---
+
+## **Reflection Journal**
 
 The DriverPass project was created for a client named Liam, who wanted a web-based system to help students prepare for their DMV driving tests. His vision was to give students access to online practice exams, allow them to schedule in-person driving lessons, and help instructors track progress more efficiently. He also wanted to make administrative work easier by including features for managing lesson packages, handling secure payments, and giving each user the right level of access within the system.
 
